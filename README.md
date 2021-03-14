@@ -9,4 +9,4 @@ We aim to understanding the virtual dating landscape  and discover the types of 
 ### Data Source
 Our dataset was taken from [Kaggle](https://www.kaggle.com/andrewmvd/okcupid-profiles). It contains 59,946 rows and 31 columns. Each row represents an anonymous user profile found on OkCupid, with structured information as well as open-ended descriptions. There are 3 numeric columns in the dataset – age, height, and income – while the rest of them contain categorical or textual data.
 
-*By Peter Mankiewich, Chenzhi Pan, Phoenix Wang
+*By Peter Mankiewich, Chenzhi Pan, Phoenix Wang*
